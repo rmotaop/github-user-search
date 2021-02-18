@@ -1,0 +1,41 @@
+
+.text-title{
+    margin: 117px 0 24px 120px;
+    width: 580px;
+    height: 128px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+    color: #062847;
+}
+
+.text-subtitle{
+    margin: 24px 0 0 120px;
+    width: 612px;
+    height: 216px;
+    font-family: Red Hat Display;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 36px;
+    color: #5A6774;
+}
+
+.email{
+    color:  #1890FF;
+}
+
+.btn {
+    position: absolute;
+    width: 110px !important;
+    margin: 48px 0 50px 120px;
+ }
+
+
+
